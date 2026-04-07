@@ -1,6 +1,6 @@
 # Harjeet Singh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/harjeet11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/harjeet-singh11)
 
 ## About Me
 I am a DevOps Engineer with expertise in building and deploying production apps, automating workflows, and CI/CD optimization. Passionate about leveraging technology to build scalable and efficient infrastructure.
